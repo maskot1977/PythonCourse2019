@@ -1,6 +1,7 @@
 # PythonCourse2019
 
 * プログラミング学習に対するポリシー
+    * https://twitter.com/maskot1977/status/1183766555525402625
     * https://twitter.com/maskot1977/status/1183417574014406656
     * https://twitter.com/maskot1977/status/1067183832258859012
     * https://twitter.com/maskot1977/status/1068380535146262528
