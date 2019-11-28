@@ -37,6 +37,10 @@ https://nbviewer.jupyter.org/github/maskot1977/PythonCourse2019/blob/master/q4a.
 
 https://nbviewer.jupyter.org/github/maskot1977/PythonCourse2019/blob/master/q5a.ipynb
 
+## プログラミング問題集　問8, 9, 10解答例
+
+https://nbviewer.jupyter.org/github/maskot1977/PythonCourse2019/blob/master/q8910a.ipynb
+
 ## プログラミング問題集　問14解答例
 
 https://nbviewer.jupyter.org/github/maskot1977/PythonCourse2019/blob/master/q14a.ipynb
